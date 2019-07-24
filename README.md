@@ -10,20 +10,17 @@
   
  So we connect our app to Firebase :
  
-  // Initialize Firebase
-    var config = {
-     apiKey: "AIzaSyDIjXzl5bhjWdp1sMzEjjWQNugET-TD1a0",
+ ### Initialize Firebase
+
+   `var config =
+    { apiKey: "AIzaSyDIjXzl5bhjWdp1sMzEjjWQNugET-TD1a0", 
     authDomain: "fortydays1-7d14c.firebaseapp.com",
-    databaseURL: "https://fortydays1-7d14c.firebaseio.com",
-    projectId: "fortydays1-7d14c",
-    storageBucket: "fortydays1-7d14c.appspot.com",
+    databaseURL: "https://fortydays1-7d14c.firebaseio.com", 
+    projectId: "fortydays1-7d14c", storageBucket: "fortydays1-7d14c.appspot.com",
     messagingSenderId: "618062853732",
-    appId: "1:618062853732:web:b80f534fc3851d2c",
-    };
+    appId: "1:618062853732:web:b80f534fc3851d2c", };
 
-    firebase.initializeApp(config);
-
-
+firebase.initializeApp(config);`
 
 
 ### How To Run
@@ -31,4 +28,4 @@
 ### `npm install`
 
 ### `npm start`
- Open [http://localhost:3000](http://localhost:3000)to view it in the browser.
+ Open [http://localhost:3000](http://localhost:3000) to view it in the browser .
