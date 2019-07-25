@@ -5,7 +5,7 @@
   [Enable to  Authentication by E-mail and Password :](C:\Users\TOSHIBA\Downloads\user-pass.png)
    
   [Add users :](C:\Users\TOSHIBA\Downloads\add-user.png)<br>
-  (C:\Users\TOSHIBA\Desktop\login.png)<br>
+  (login.png)
   (C:\Users\TOSHIBA\Desktop\login.png) 
   
  So we connect our app to Firebase :
