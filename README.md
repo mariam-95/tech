@@ -11,8 +11,8 @@
  So we connect our app to Firebase :
  
  ### Initialize Firebase
-
-   `var config =
+'''
+   var config =
     { apiKey: "AIzaSyDIjXzl5bhjWdp1sMzEjjWQNugET-TD1a0", 
     authDomain: "fortydays1-7d14c.firebaseapp.com",
     databaseURL: "https://fortydays1-7d14c.firebaseio.com", 
@@ -20,7 +20,8 @@
     messagingSenderId: "618062853732",
     appId: "1:618062853732:web:b80f534fc3851d2c", };
 
-firebase.initializeApp(config);`
+firebase.initializeApp(config);
+'''
 
 
 ### How To Run
