@@ -4,7 +4,7 @@
 
   [Enable to  Authentication by E-mail and Password :](C:\Users\TOSHIBA\Downloads\user-pass.png)
    
-  ![alternativetext](homework/add-user.png)
+  ![alternativetext](homework/add-user.PNG)
   (login.png)
   (C:\Users\TOSHIBA\Desktop\login.png) 
   
